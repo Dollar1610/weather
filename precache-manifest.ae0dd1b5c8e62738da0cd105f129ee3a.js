@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/weather-app-v1/static/css/1.3563c346.chunk.css"
   },
   {
-    "revision": "30b065deb907ec6e49cfa51f8329d266",
+    "revision": "2a6e2571bfb4aeed1f29ddfb6af18f44",
     "url": "/weather-app-v1/index.html"
   }
 ];
